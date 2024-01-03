@@ -1,0 +1,6 @@
+torch
+llama
+transformers
+accelerate
+langchain
+openai
